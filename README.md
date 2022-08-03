@@ -1,6 +1,6 @@
 # Slides
 
-Slides from COOL Days conferences
+lides from COOL Days conferences
 
 <img src="https://raw.githubusercontent.com/CollaboraOnline/slides/main/static/images/cool-days-event-dev-logo.svg" alt="" style="min-width: 100%;">
 
